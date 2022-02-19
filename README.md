@@ -1,6 +1,6 @@
-# latihan_pagination
+# Datatable Pagination & Infinite Scroll
 
-A new Flutter project.
+Example Project
 
 ## Getting Started
 
